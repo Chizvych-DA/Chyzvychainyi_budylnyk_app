@@ -118,7 +118,7 @@ class MainActivity : Activity() {
         box.gravity = Gravity.CENTER_HORIZONTAL
 
         val title = TextView(this)
-        title.text = "Будильник"
+        title.text = "Чизвычайный Будильник"
         title.textSize = 30f
         title.setTextColor(ACCENT)
         title.typeface = Typeface.DEFAULT_BOLD
